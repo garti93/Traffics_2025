@@ -1,0 +1,40 @@
+{
+    "mainGameLink": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DSQ151R4",
+    "games": [
+        {
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Minecraft/Minecraft_data/Jurassic_craft.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DQ5PKCN3",
+            "isClickable": true
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Minecraft/Minecraft_data/Morph_cover.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FN9WSW6C",
+            "isClickable": true
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Minecraft/Minecraft_data/Pixelmon_cover.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FNKH3BL2",
+            "isClickable": true
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Minecraft/Minecraft_data/car_vehicle_cover.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FN8T5PDG",
+            "isClickable": true
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Minecraft/Minecraft_data/furnicraft_cover.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FN8DWCM6",
+            "isClickable": true
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Minecraft/Minecraft_data/lucky_blocks_cover.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FN8GY6FF",
+            "isClickable": true
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Minecraft/Minecraft_data/mutant_cover.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FNKFXMCL",
+            "isClickable": true
+        }
+    ]
+}

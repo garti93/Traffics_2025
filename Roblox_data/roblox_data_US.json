@@ -1,0 +1,46 @@
+{
+    "games": [
+        {
+            "title": "BARRY PRISON RUN!",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/Barry_panel.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/barry_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DVPZRNLZ",
+            "isClickable": true
+        },
+        {
+            "title": "Escape Grandma Obby",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/grandma_panel.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/grandma_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DVRNWXP7",
+            "isClickable": true
+        },
+        {
+            "title": "Escape Papa Pizza's Pizzeria!",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/pizza_panel.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/pizza_panel.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DVRMNKXC",
+            "isClickable": true
+        },
+        {
+            "title": "Adopt Me !",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/pet_panel.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/pet_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DW1TLGTZ",
+            "isClickable": false
+        },
+        {
+            "title": "Coming Soon",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/coming_soon.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/coming_soon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DW2F9RCS",
+            "isClickable": true
+        },
+        {
+            "title": "Coming Soon",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/coming_soon.png",
+            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
+            "link": "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en",
+            "isClickable": false
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "games": [
+        {
+            "title": "Steal a Brainrot",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/Steal_the_cover.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/Steal_the_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0BXQ6XFZL",
+            "isClickable": true
+        },
+        {
+            "title": "BARRY PRISON RUN!",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/Barry_panel.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/barry_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DVPZRNLZ",
+            "isClickable": true
+        },
+        {
+            "title": "Dress To Impress",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/Dress_to_cover.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/Dress_to_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FP9CJVW9",
+            "isClickable": true
+        },
+        {
+            "title": "Escape Papa Pizza's Pizzeria!",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/pizza_panel.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/pizza_panel.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0D2MDD8ZT",
+            "isClickable": true
+        },
+        {
+            "title": "Adopt Me !",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/pet_panel.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/pet_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0CWKHF9VR",
+            "isClickable": true
+        },
+        {
+            "title": "Escape from Piggy",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/piggy_panel.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/piggy_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DW92915V",
+            "isClickable": true
+        },
+        {
+            "title": "Steal a Brainrot Horror Game",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/brainrott_panel_low.jpg",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/brainrot_icon_114.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0BXQ6XFZL",
+            "isClickable": true
+        },
+        {
+            "title": "Geometry Dash",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/geometry_cover.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/geometry_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DNW32JQ7",
+            "isClickable": true
+        },
+        {
+            "title": "Poppy Playtime But Brainrot Mod",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/tung_tung_poppy-cover.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/tung_tung_cover.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FKJSJBX3",
+            "isClickable": true
+        },
+        {
+            "title": "Escape Circus Prison",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/circus_cover.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/circus_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DPN6681K",
+            "isClickable": true
+        },
+        {
+            "title": "Skateboard Obby Parkour",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/cover_parkour.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/icon_parkour.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DQ2MN3RK",
+            "isClickable": true
+        },
+        {
+            "title": "Granny",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/granny_cover.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/granny_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DQ5KP4GR",
+            "isClickable": true
+        },
+        {
+            "title": "Escape Grandma Obby",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/grandma_panel.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/grandma_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DW48CBDX",
+            "isClickable": true
+        }
+    ],
+    "horizontalGames": [
+        {
+            "title": "Steal a Brainrot",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/Steal_the_cover.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/Steal_the_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0BXQ6XFZL",
+            "isClickable": true
+        },
+        {
+            "title": "BARRY PRISON RUN!",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/Barry_panel.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/barry_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DVPZRNLZ",
+            "isClickable": true
+        },
+        {
+            "title": "Dress To Impress",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/Dress_to_cover.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/Dress_to_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FP9CJVW9",
+            "isClickable": true
+        },
+        {
+            "title": "Escape Papa Pizza's Pizzeria!",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/pizza_panel.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/pizza_panel.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0D2MDD8ZT",
+            "isClickable": true
+        },
+        {
+            "title": "Adopt Me !",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/pet_panel.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/pet_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0CWKHF9VR",
+            "isClickable": true
+        },
+        {
+            "title": "Escape from Piggy",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/piggy_panel.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/piggy_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DW92915V",
+            "isClickable": true
+        },
+        {
+            "title": "Steal a Brainrot Horror Game",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/brainrott_panel_low.jpg",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/brainrot_icon_114.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0BXQ6XFZL",
+            "isClickable": true
+        },
+        {
+            "title": "Geometry Dash",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/geometry_cover.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/geometry_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DNW32JQ7",
+            "isClickable": true
+        },
+        {
+            "title": "Poppy Playtime But Brainrot Mod",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/tung_tung_poppy-cover.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/tung_tung_cover.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FKJSJBX3",
+            "isClickable": true
+        },
+        {
+            "title": "Escape Circus Prison",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/circus_cover.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/circus_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DPN6681K",
+            "isClickable": true
+        }
+        
+    ]
+}
